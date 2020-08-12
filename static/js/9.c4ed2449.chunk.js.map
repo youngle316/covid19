@@ -1,0 +1,1 @@
+{"version":3,"sources":["components/Home.jsx"],"names":["Home","className"],"mappings":"8GAAA,2BAQeA,UANf,WACE,OACE,yBAAKC,UAAU,QAAf","file":"static/js/9.c4ed2449.chunk.js","sourcesContent":["import React from 'react';\n\nfunction Home() {\n  return (\n    <div className=\"Home\">这是首页</div>\n  );\n}\n\nexport default Home;\n"],"sourceRoot":""}

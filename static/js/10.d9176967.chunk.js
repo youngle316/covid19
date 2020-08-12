@@ -1,0 +1,2 @@
+(this.webpackJsonpcovid19china=this.webpackJsonpcovid19china||[]).push([[10],{131:function(n,a,c){"use strict";c.r(a);var e=c(0),i=c.n(e);a.default=function(n){var a=n.showLanguageSwitcher;return i.a.createElement("div",null,a?"\u8fd9\u662f\u8bed\u8a00\u5207\u6362\u9875":"")}}}]);
+//# sourceMappingURL=10.d9176967.chunk.js.map

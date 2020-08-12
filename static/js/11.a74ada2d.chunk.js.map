@@ -1,0 +1,1 @@
+{"version":3,"sources":["components/Province.jsx"],"names":["Province"],"mappings":"+GAAA,2BAQeA,UANf,WACE,OACE","file":"static/js/11.a74ada2d.chunk.js","sourcesContent":["import React from 'react';\n\nfunction Province() {\n  return (\n    <div>这是省份信息详情页</div>\n  );\n}\n\nexport default Province;\n"],"sourceRoot":""}
